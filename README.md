@@ -1,6 +1,6 @@
 
 ````markdown
-# 📈 Stock Market Trend Analysis
+#📈 Stock Market Trend Analysis
 
 A Python-based tool for analyzing stock market trends using technical indicators and machine learning.  
 This project fetches historical stock data, computes key technical indicators, detects trend patterns, predicts future prices, and visualizes results with intuitive charts.
@@ -12,7 +12,7 @@ This project fetches historical stock data, computes key technical indicators, d
 
 ---
 
-## 🔍 Features
+# 🔍 Features
 
 - **Data Fetching**  
   Retrieves historical stock data using `yfinance`.
@@ -36,9 +36,9 @@ This project fetches historical stock data, computes key technical indicators, d
 
 ---
 
-## 🛠️ Getting Started
+# 🛠️ Getting Started
 
-### 📦 Prerequisites
+## 📦 Prerequisites
 
 - Python 3.8+
 - Install required packages:
