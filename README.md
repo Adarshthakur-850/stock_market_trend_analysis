@@ -1,5 +1,5 @@
 
-#📈 Stock Market Trend Analysis
+# 📈 Stock Market Trend Analysis
 
 A Python-based tool for analyzing stock market trends using technical indicators and machine learning.  
 This project fetches historical stock data, computes key technical indicators, detects trend patterns, predicts future prices, and visualizes results with intuitive charts.
