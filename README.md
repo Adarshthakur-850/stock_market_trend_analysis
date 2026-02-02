@@ -6,7 +6,8 @@ A Python-based tool for analyzing stock market trends using technical indicators
 This project fetches historical stock data, computes key technical indicators, detects trend patterns, predicts future prices, and visualizes results with intuitive charts.
 
 
-![Uploading Screenshot 2026-01-31 193955.png…]()
+
+<img width="1919" height="1025" alt="Screenshot 2026-01-31 193955" src="https://github.com/user-attachments/assets/1c48018a-ca88-4c45-a5a4-4f1e9f03e498" />
 
 
 ---
