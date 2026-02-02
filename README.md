@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Stock Market Trends Analysis
 
 A Python-based tool to analyze stock market trends using technical indicators (MA, RSI, MACD, Bollinger Bands) and Machine Learning (Random Forest) to predict future prices.
@@ -40,4 +40,4 @@ python main.py RELIANCE.NS
 =======
 # stock_market_trend_analysis
 ml project
->>>>>>> 7d24fa355033d8e6cdef50c5fe88d4c9040f2704
+
