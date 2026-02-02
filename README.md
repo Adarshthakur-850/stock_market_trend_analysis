@@ -5,7 +5,8 @@
 A Python-based tool for analyzing stock market trends using technical indicators and machine learning.  
 This project fetches historical stock data, computes key technical indicators, detects trend patterns, predicts future prices, and visualizes results with intuitive charts.
 
-<img width="1919" height="1025" alt="Screenshot 2026-01-31 193955" src="https://github.com/user-attachments/assets/b31e95e3-8cf3-4265-9a80-bef2b31f7ccd" />
+
+![Uploading Screenshot 2026-01-31 193955.png…]()
 
 
 ---
@@ -132,12 +133,3 @@ This repository does not currently specify a license. You can add one depending 
 ## 📬 Contact
 
 Opened by **Adarsh Thakur**.
-Feel free to connect if you want help running this project or extending it further.
-
-```
-
----
-
-If you want, I can **generate badges** (for CI, Python version, coverage) and include a **screenshots/preview section** formatted nicely.
-::contentReference[oaicite:1]{index=1}
-```
